@@ -1,0 +1,25 @@
+{
+  "benchmark": "AgentMesh Distributed Load Test",
+  "timestamp": "2026-10-03T10:19:38.159398+00:00",
+  "tasks": 100,
+  "workers": 4,
+  "execution_delay_ms": 20,
+  "completed": 100,
+  "failed": 0,
+  "queued": 0,
+  "running": 0,
+  "terminal_tasks": 100,
+  "success_rate": 1.0,
+  "failure_rate": 0.0,
+  "throughput_tasks_per_second": 20.1913,
+  "enqueue_seconds": 0.0661,
+  "duration_seconds": 4.9526,
+  "latency": {
+    "sample_count": 100,
+    "average_seconds": 0.0426,
+    "median_seconds": 0.041,
+    "min_seconds": 0.0317,
+    "max_seconds": 0.0885
+  },
+  "timed_out": false
+}
